@@ -1,10 +1,10 @@
 # Football-player-stats-analysis
 # Table of content
-- [Project Overview](#Project-Overview)
-- [Key Features](#Key-Features)
-- [Tools & Technologies](#Tools-Technologies)
-- [Project Workflow](Project-Workflow)
-- [Results & Insights](Results-Insights)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Tools & Technologies](#tools-technologies)
+- [Project Workflow](#project-workflow)
+- [Results & Insights](#results-insights)
 ## 📌 Project Overview
 
 This project focuses on analyzing football player statistics to uncover meaningful insights from raw, messy data. The workflow includes data cleaning, exploratory data analysis (EDA), visualizations, and building an interactive Streamlit dashboard. By transforming unstructured player data into a professional analytics tool, the project demonstrates how data can be used for scouting, recruitment strategies, and performance evaluation.
