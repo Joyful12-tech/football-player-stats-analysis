@@ -1,10 +1,14 @@
 # Football-player-stats-analysis
 # Table of content
 - [Project Overview](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-project-overview)
-- [ Key Features]
-- [Tools & Technologies]
-- [Project Workflow]
-- [Results & Insights]
+  
+- [ Key Features](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-key-features)
+ 
+- [Tools & Technologies](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-tools--technologies)
+  
+- [Project Workflow](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-tools--technologies)
+  
+- [Results & Insights](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-results--insights)
 ## 📌 Project Overview
 
 This project focuses on analyzing football player statistics to uncover meaningful insights from raw, messy data. The workflow includes data cleaning, exploratory data analysis (EDA), visualizations, and building an interactive Streamlit dashboard. By transforming unstructured player data into a professional analytics tool, the project demonstrates how data can be used for scouting, recruitment strategies, and performance evaluation.
