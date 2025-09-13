@@ -5,10 +5,14 @@
 - [Tools & Technologies](#tools-technologies)
 - [Project Workflow](#project-workflow)
 - [Results & Insights](#results-insights)
+  
 ## 📌 Project Overview
 
 This project focuses on analyzing football player statistics to uncover meaningful insights from raw, messy data. The workflow includes data cleaning, exploratory data analysis (EDA), visualizations, and building an interactive Streamlit dashboard. By transforming unstructured player data into a professional analytics tool, the project demonstrates how data can be used for scouting, recruitment strategies, and performance evaluation.
 The final dashboard allows users to filter by clubs, positions, and players while exploring top scorers, assist leaders, market values, and discipline trends. This end-to-end pipeline highlights my skills in Python (Pandas, NumPy, Seaborn, Matplotlib), Streamlit, and data storytelling.
+
+# Dashboard
+![Capture football 1](https://github.com/user-attachments/assets/ee9d0297-99e1-44c6-9c5d-46c91d909601)
 
 # 🔑 Key Features
 
