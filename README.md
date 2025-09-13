@@ -1,6 +1,6 @@
 # Football-player-stats-analysis
 # Table of content
-- [Project Overview]
+- [Project Overview](https://github.com/Joyful12-tech/football-player-stats-analysis/edit/main/README.md#-project-overview)
 - [ Key Features]
 - [Tools & Technologies]
 - [Project Workflow]
